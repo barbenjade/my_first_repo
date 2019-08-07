@@ -1,2 +1,2 @@
 ﻿# my_first_repo
- Practice
+ Practice for python.
