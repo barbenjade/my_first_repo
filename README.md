@@ -1,2 +1,2 @@
 ﻿# my_first_repo
- Practice for python.
+ Practice for python and React
